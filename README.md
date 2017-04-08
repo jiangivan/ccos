@@ -1,1 +1,1 @@
-# ccos
+# virtual cos for c version
